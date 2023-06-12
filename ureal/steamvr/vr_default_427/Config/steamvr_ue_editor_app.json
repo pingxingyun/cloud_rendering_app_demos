@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.vr_default_427-18319896.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/work/client/git/cloud_rendering_app_demos/ureal/steamvr/vr_default_427/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "vr_default_427-18319896 [UE Editor]"
+				}
+			}
+		}
+	]
+}
